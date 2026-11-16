@@ -1,6 +1,4 @@
-![LizZion](https://github.com/LizZion/lizzion/blob/main/LIZZIONbanner.png)
-
-# LizZion - System & Game Developer
+# System & Game Developer
 
 Olá pessoal! 👋 Sou uma entusiasta do mundo eletrônico e do desenvolvimento de software, sempre me encantei com essa área e pretendo fazer disso a minha vida profissional.
 
